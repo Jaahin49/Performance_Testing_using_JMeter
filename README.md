@@ -3,17 +3,6 @@ Is a non-functional testing approach to ensure that the application and the isol
 ## What is JMeter?
 JMeter is an open-source Java-based tool primarily used for performance testing web applications. 
 
-# Content
-
-- [Load testing Report]() | [Running The Test](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/README.md#running-the-test)
-- [Summary](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/tree/main?tab=readme-ov-file#summary) | [Collection of API](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp?tab=readme-ov-file#collection-of-api)
-- [Introduction](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/tree/main?tab=readme-ov-file#introduction) | [Read Test Data from CSV file in Jmeter](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp?tab=readme-ov-file#read-test-data-from-csv-file-in-jmeter)
-- [Install](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/tree/main?tab=readme-ov-file#install)  | [Test execution from GUI](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp?tab=readme-ov-file#test-execution-from-gui)
-- [Prerequisites](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/tree/main?tab=readme-ov-file#prerequisites) | [Test execution from the Terminal](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp?tab=readme-ov-file#test-execution-from-the-terminal)
-- [Elements of a Minimal Test Plan](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/tree/main?tab=readme-ov-file#prerequisites) | [Make csv File](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp?tab=readme-ov-file#make-csv-file)
-- [Creating a Test Plan](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/README.md#creating-a-test-plan) | [Make jtl File](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp?tab=readme-ov-file#make-jtl-file)
-- [Make html File](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp?tab=readme-ov-file#make-html-file) | [HTML Report](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp?tab=readme-ov-file#html-report) | [Transaction Per Second](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp?tab=readme-ov-file#transaction-per-second)
-
 ## Load testing Report
 
 | Concurrent Request  | Loop Count | Avg TPS for Total Samples  | Error Rate | Total Concurrent API request |
