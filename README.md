@@ -229,4 +229,4 @@ After completing this command
 ### Response Time Percentiles **Number of Threads 2000 ; Ramp-Up Period 10s**
 
 ### Response Time Overview **Number of Threads 2000 ; Ramp-Up Period 10s**
-(https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/t2000-response-time%20overview.png)
+![BookingApp_t2000_tps](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/t2000-response-time%20overview.png)
