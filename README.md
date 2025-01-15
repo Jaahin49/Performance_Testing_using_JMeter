@@ -51,7 +51,7 @@ Click =>Binaries
 
 The first step in using JMeter is to create a Test Plan. A Test Plan is a collection of elements that define the test scenarios and their configurations. To create a Test Plan, you need to follow these steps:
 
-![c](![Thred Group create](https://drive.google.com/drive/u/1/folders/1Jtl10SPz4LRk9PvHt7zXpDxFqVfV5Csp))
+![c](![Thred Group create](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/Thred%20Group%20create.png)
 
 1. Right-click on the Test Plan in the tree view on the left-hand side of the JMeter interface.
 2. Select Add > Threads (Users) > Thread Group.
