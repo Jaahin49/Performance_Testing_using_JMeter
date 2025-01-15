@@ -114,22 +114,22 @@ I have adjusted the thread group to have 1, 100, 500, 1000, 2000 concurrent user
    - Open those file
    - The Test Plan will be loaded  
    
-   ![testPlan](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/opening-Jmx-File.png)
+   ![testPlan](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/opening-Jmx-File.png)
 
 ## Read Test Data from CSV file in Jmeter    
 
 - Create a CSV file in the test suite folder and add test data to it.
 
-![createCSV](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/CSV%20DataFile/newuser-CSV-Data.png)
+![createCSV](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/CSV%20DataFile/newuser-CSV-Data.png)
 - Add a Config Element CSV Data Set Config in Jmeter.
 
-![configCSV](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/CSV%20Data%20Config%20and%20Passed%20Screenshot/CSV%20Data%20Set%20Config.png)
+![configCSV](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/CSV%20Data%20Config%20and%20Passed%20Screenshot/CSV%20Data%20Set%20Config.png)
 
 - Configure ' CSV Data Set Config ' based on the need such as providing path of CSV file and variable names and other configs. 
 
-![readCSV](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/CSV%20Data%20Config%20and%20Passed%20Screenshot/CSV%20File%20to%20Set%20Variable.png)
+![readCSV](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/CSV%20Data%20Config%20and%20Passed%20Screenshot/CSV%20File%20to%20Set%20Variable.png)
 
-![readCSV](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/CSV%20Data%20Config%20and%20Passed%20Screenshot/Newuser-Data%20-Set-From-CSV-File.png)
+![readCSV](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/CSV%20Data%20Config%20and%20Passed%20Screenshot/Newuser-Data%20-Set-From-CSV-File.png)
 
 - Run the test to see if data from the CSV file is read and populated in the results.  <br/>
 
@@ -138,7 +138,7 @@ I have adjusted the thread group to have 1, 100, 500, 1000, 2000 concurrent user
 - JMeter should be initialized in GUI mode.
 - Click on Run Button.
 
-![run](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/Run%20Button%20SS.png)
+![run](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/Run%20Button%20SS.png)
 
 - Check Different Types of Report.
 
@@ -146,12 +146,12 @@ I have adjusted the thread group to have 1, 100, 500, 1000, 2000 concurrent user
    
     Summary  Report           |  Aggregate  Report
     :-------------------------:|:-------------------------:
-    ![BookingApp_t1_summary](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/t1-Summary%20report.png)  |  ![BookingApp_t1_agg](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/t1-Aggregate-report.png)
+    ![BookingApp_t1_summary](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/t1-Summary%20report.png)  |  ![BookingApp_t1_agg](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/t1-Aggregate-report.png)
 
     Aggregate  Report for  **Number of Threads 2000 ; Ramp-Up Period 10s**
     Aggregate  Report
     :-------------------------:|
-    ![BookingApp_t2000_summary](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/t2000_Summary.png)
+    ![BookingApp_t2000_summary](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/t2000_Summary.png)
 
 ## Test execution from the Terminal
  
