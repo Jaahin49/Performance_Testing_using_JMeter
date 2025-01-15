@@ -58,15 +58,15 @@ The first step in using JMeter is to create a Test Plan. A Test Plan is a collec
 3. In the Thread Group panel, you can set the number of threads (users) to simulate, the ramp-up period, and the loop count.
 4. Next, you need to add a Sampler element to the Thread Group. A Sampler is used to simulate a request to the server under test. To add a Sampler, right-click on the Thread Group, select Add > Sampler, and then choose the appropriate Sampler type (e.g., HTTP Request, JDBC Request, etc.)
 
-![c](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/1_.png)
+![c](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/1_.png)
 
 5. In the Sampler panel, you can configure the parameters of the request (e.g., URL, method, parameters, etc.)
 
-![c](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/2_.png)
+![c](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/2_.png)
 
 6. Finally, you can add a Listener element to the Thread Group to view the test results. A Listener displays the test results in various formats such as tables, graphs, and charts. To add a Listener, right-click on the Thread Group, select Add > Listener, and then choose the appropriate Listener type (e.g., Summary Report, Graph Results, etc.).
 
-![c](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/3_.png)
+![c](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/3_.png)
 
 ## Running The Test
 
@@ -76,15 +76,15 @@ Try Now
 In this tutorial, we’ll go over how to set up a basic load test using JMeter to test the [https://restful-booker.herokuapp.com/booking](https://restful-booker.herokuapp.com/booking) API.
 Set up the restful-booker.herokuapp.com/booking key by signing up to the above website. Then provide the API request details to the JMeter test plan.
 
-![c](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/4_.png)
+![c](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/4_.png)
 
 After running the load test, you can view the responses and check the number of requests as well.
 
-![c](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/5_.png)
+![c](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/5_.png)
 
 I have adjusted the thread group to have 1, 100, 500, 1000, 2000 concurrent users and do a load test.
 
-![c](https://github.com/Mahmuduls1995/Performance-Testing-With-JMeter-BookingApp/blob/main/Project%20Screenshot/6_.png)
+![c](https://github.com/Jaahin49/Performance_Testing_using_JMeter/blob/main/Project%20Screenshot/6_.png)
 
 - Name: Users
 - Number of Threads (users): 1, 100, 500, 1000, 2000
