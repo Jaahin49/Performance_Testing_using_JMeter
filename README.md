@@ -1,5 +1,5 @@
 ## What is performance testing?
-Is a non-functional testing approach to ensure that the application and the isolated elements of it will perform well under expected workload.
+It is a non-functional testing approach to ensure that the application and the isolated elements of it will perform well under expected workload.
 ## What is JMeter?
 JMeter is an open-source Java-based tool primarily used for performance testing web applications. 
 
